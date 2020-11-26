@@ -1,0 +1,5 @@
+It's a pretty simple pong game made in unreal engine 4. I was trying to get the hang of the system, I did two single player levels where theres an easy and a hard 
+ai controllin the enemy paddle respectfully. Theres a UI to select the game, working simple collisons, sound on collsions and victory, a scorecounter that displays the
+score on screen.
+
+NOTE: To actually run unzip the Engine/UE4Game first. I zipped it because it was over 100 mb and github didn't like that.
